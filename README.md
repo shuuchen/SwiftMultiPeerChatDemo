@@ -6,7 +6,7 @@ A chat demo using multi-peer connectivity.  Chat with your simulator!
   <img src="https://github.com/shuuchen/SwiftMultiPeerChatDemo/blob/master/conn.png" height="667" width="325"  />
   <img src="https://github.com/shuuchen/SwiftMultiPeerChatDemo/blob/master/auth.png" height="667" width="325"  />
   <img src="https://github.com/shuuchen/SwiftMultiPeerChatDemo/blob/master/chatd.png" height="667" width="325"  />
-  <img src="https://github.com/shuuchen/SwiftMultiPeerChatDemo/blob/master/chatp.jpg" height="1008" width="756"  />
+  <img src="https://github.com/shuuchen/SwiftMultiPeerChatDemo/blob/master/chatp.jpg" height="504" width="378"  />
 </p>
 
 ## Requirements
